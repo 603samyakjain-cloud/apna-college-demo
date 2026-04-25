@@ -1,4 +1,4 @@
 # apna-college-demo
 this is my first git repository
 <br>
-Author - samyak jain
+Author - samyak jain (rajawat)
